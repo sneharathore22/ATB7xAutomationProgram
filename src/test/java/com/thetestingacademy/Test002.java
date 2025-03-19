@@ -1,7 +1,6 @@
 package com.thetestingacademy;
 
-
-public class Test001 {
+public class Test002 {
     public static void main(String[] args) {
 
 
